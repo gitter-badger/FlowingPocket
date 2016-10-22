@@ -1,6 +1,8 @@
 FlowingPocket
 ================
 
+[![Join the chat at https://gitter.im/Asparanc/FlowingPocket](https://badges.gitter.im/Asparanc/FlowingPocket.svg)](https://gitter.im/Asparanc/FlowingPocket?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 __Full featured MC:Pocket Edition & Windows 10 Edition Beta__
 
 [![PayPal donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/AFlachat)
